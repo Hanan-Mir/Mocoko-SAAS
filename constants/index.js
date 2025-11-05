@@ -69,4 +69,17 @@ const mockTailLists = [
 	price: "$29",
  },
 ];
-export {navLinks,cocktailLists,mockTailLists}
+const featureLists = [
+ "Perfectly balanced blends",
+ "Garnished to perfection",
+ "Ice-cold every time",
+ "Expertly shaken & stirred",
+];
+
+const goodLists = [
+ "Handpicked ingredients",
+ "Signature techniques",
+ "Bartending artistry in action",
+ "Freshly muddled flavors",
+];
+export {navLinks,cocktailLists,mockTailLists,featureLists,goodLists}
